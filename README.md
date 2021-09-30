@@ -1,25 +1,19 @@
-# 30 Days of Google Cloud Program 2021 Resources 
+# 30 Days of Google Cloud Program 2021 Resources
 
 ## Video Lectures
 
 ### Quest 1
 
-- An introduction to cloud, servers, OSI model, and load balancing - [LINK](https://youtu.be/_XOgZtd_raU)
-- Virtualization v/s Containerization, Quest 1 Walkthrough - [LINK](https://youtu.be/gzintLUlKDg)
+[🔗](https://youtu.be/_XOgZtd_raU) An introduction to cloud, servers, OSI model, and load balancing  
+[🔗](https://youtu.be/gzintLUlKDg) Virtualization v/s Containerization, Quest 1 Walkthrough
 
-### Quest 2
-
-Comming very soon...
+<hr/>
 
 ## Slides
 
 ### Quest 1
 
-- [Slide 1](https://cutt.ly/tEY2UBl)
-- [Slide 2](https://cutt.ly/kEY2PWi)
+[🔗](https://cutt.ly/tEY2UBl) Introduction to Cloud  
+[🔗](https://cutt.ly/kEY2PWi) Virtualization & Containerization
 
-### Quest 2
-
-Comming very soon...
-
-#### You can also make use of this Progress Tracker - [LINK](https://docs.google.com/document/d/1vtFqIEf1FTX-w8kTSJXXzEgOdF41JnfncKyEI5AHZm4/edit)
+#### Make use of this [Progress Tracker](https://docs.google.com/document/d/1vtFqIEf1FTX-w8kTSJXXzEgOdF41JnfncKyEI5AHZm4/edit) to mark completion of your Qwiklabs
